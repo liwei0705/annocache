@@ -1,0 +1,8 @@
+logging:
+  level:
+    com.gitee.cs_liwei: DEBUG
+spring:
+  redis:
+    cluster:
+      - localhost:6379
+      - localhost:6379
